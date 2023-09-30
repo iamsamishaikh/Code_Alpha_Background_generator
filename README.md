@@ -1,2 +1,3 @@
-# Code_Alpha_Background_generator
-a simple repo of background genereator
+# CodeAlpha_Background_generator
+#### This project generates random background colours and allows users to customize according to their wish.
+#### It uses HTML, CSS & Javascript.
